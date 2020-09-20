@@ -11,7 +11,7 @@ import javax.sql.DataSource;
 /**
  * JPA Config class for setting the DB connection properties
  **/
-
+//user postgres and pass juhi123
 @Configuration
 public class JpaConfig {
 
